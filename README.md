@@ -30,7 +30,8 @@ At the end of the this project, you will be able to;
 
         |----index.html  
         |----script.js
-        |----CountryInformation.gif
+        |----flag.gif
+        |----flag.jpg
         |----img
         |----readme.md 
 
